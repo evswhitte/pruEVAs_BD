@@ -18,6 +18,7 @@ Así que _cuidado_. Hay que asegurarse de que la memoria sólo se escriba cuando
 
 First of all,
 
+    #include "Wire.h"
     #include <I2C_eeprom.h>
 
 (tiene que estar instalado).
